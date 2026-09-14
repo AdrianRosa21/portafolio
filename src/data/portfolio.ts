@@ -30,7 +30,7 @@ export const portfolioData = {
       solution: "Diseñé y desarrollé una plataforma responsive para mostrar sus servicios, experiencia y facilitar el contacto directo con clientes.",
       myContribution: "Desarrollo completo desde el diseño inicial hasta el despliegue.",
       technologies: ["HTML5", "CSS3", "JavaScript", "GitHub Pages"],
-      image: "/images/projects/civil-portfolio.png",
+      image: "/images/projects/civil-portfolio.webp",
       github: "https://github.com/AdrianRosa21", // Replace with real url if exists
       demo: "https://adrianrosa21.github.io/Ing.cesar/",
       featured: true,
@@ -42,7 +42,7 @@ export const portfolioData = {
       solution: "Construí una aplicación web administrativa que organiza membresías, pagos, asistencia y operaciones internas.",
       myContribution: "Arquitectura backend, modelo de datos y desarrollo de endpoints utilizando .NET Core.",
       technologies: ["ASP.NET Core MVC", "C#", "Entity Framework Core", "SQL Server"],
-      image: "/images/projects/gymsystem.png",
+      image: "/images/projects/gymsystem.webp",
       github: "https://github.com/AdrianRosa21",
       demo: "#",
       featured: true,
@@ -54,7 +54,7 @@ export const portfolioData = {
       solution: "Desarrollé una aplicación educativa móvil con progreso persistente, funcionamiento offline y experiencia interactiva.",
       myContribution: "Desarrollo frontend móvil, persistencia local e integración de minijuegos y audio.",
       technologies: ["React Native", "Expo", "AsyncStorage", "SQLite"],
-      image: "/images/projects/english-app.png",
+      image: "/images/projects/english-app.webp",
       github: "https://github.com/AdrianRosa21",
       demo: "#",
       featured: true,
@@ -92,7 +92,7 @@ export const portfolioData = {
       category: "Escuelas y Colegios",
       date: "15 de agosto de 2026",
       description: "Participación destacada en la fase presencial, resolviendo problemas algorítmicos complejos bajo presión en equipo.",
-      image: "/images/achievements/csp.png"
+      image: "/images/achievements/csp.webp"
     },
     {
       title: "Bootcamp: AI for Developers Jr.",
@@ -100,7 +100,7 @@ export const portfolioData = {
       category: "Bootcamp",
       date: "Julio 2026",
       description: "Formación intensiva en el uso y aplicación de herramientas modernas de inteligencia artificial integradas al desarrollo de software.",
-      image: "/images/achievements/kodigo.png"
+      image: "/images/achievements/kodigo.webp"
     },
     {
       title: "English — Advanced coursework",
@@ -108,7 +108,7 @@ export const portfolioData = {
       category: "Certificación / Nivel B2 CEFR (Self-assessed)",
       date: "Marzo 2026",
       description: "Desarrollo de habilidades avanzadas de comunicación en inglés, facilitando el trabajo con equipos internacionales y documentación técnica.",
-      image: "/images/achievements/english.png"
+      image: "/images/achievements/english.webp"
     }
   ],
 
